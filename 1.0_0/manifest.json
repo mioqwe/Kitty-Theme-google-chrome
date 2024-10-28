@@ -1,0 +1,34 @@
+{
+   "description": "",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAruBf4KtFf0YuhLkjW6yFddw+nCk14dcNAy9gaprrnQ4ua9UXPEHhomQ1IAIAOmBCASpD4bVjKeu5iLV82wL5dx5pHKXPi9hPUxeusxMZIypInYVO7itez8bkIozHQOOCOKH6e1dTrW0NJdi1I9IcLFsX2lxj4MLHFY0iglXbDV1hd7gPivs57ryIdxQ1AfbDzZaCYn7VIwm98q5+vrpENBrR00FioZ6QIMlCv09jWCr5m+IMxLVhTbFr01l0R3HyiUebRKpb+IGUgYzzMy6aJloj8zYhcACLzoXOtMryuFCwUQB7JrsPTS/RRYbGSQEzlQjKjOt94qG3Q/K2J3BcRwIDAQAB",
+   "manifest_version": 3,
+   "name": "Kawaii Sanrio ",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 243, 200, 210 ],
+         "button_background": [ 31, 31, 31, 1 ],
+         "frame": [ 21, 20, 20 ],
+         "ntp_background": [ 21, 20, 20 ],
+         "ntp_link": [ 6, 55, 116 ],
+         "ntp_text": [ 50, 50, 50 ],
+         "tab_background_text": [ 105, 105, 105 ],
+         "tab_text": [ 243, 200, 210 ],
+         "toolbar": [ 21, 20, 20 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "center",
+         "ntp_background_repeat": "repeat"
+      },
+      "tints": {
+         "buttons": [ 0.96, 0.64, 0.87 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
